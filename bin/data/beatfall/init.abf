@@ -1,0 +1,39 @@
+----------------- BPM --------------------------
+120
+----------------- Volume Setup -----------------
+0.500000
+----------------- Pedal Setup ------------------
+0 color 0x156636
+0 sound Kick7.wav
+1 color 0x57f4a7
+1 sound Snare7.wav
+2 color 0x1388fd
+2 sound Hat8.wav
+3 color 0xc85c0d
+3 sound Ride1.wav
+4 color 0x5a4d0b
+4 sound Crash7.wav
+---------------- Path Setup --------------------
+5 color 0xccf9a
+---------------- Generator Setup ---------------
+6 color 0xafbce1
+6 color 0xd84e41
+6 color 0xc8d57f
+---------------- Pedal Location ----------------
+0 location 100.000000 600.000000 0.000000
+1 location 300.000000 600.000000 0.000000
+2 location 500.000000 600.000000 0.000000
+3 location 700.000000 600.000000 0.000000
+4 location 900.000000 600.000000 0.000000
+---------------- Path Location -----------------
+5 location 100.000000 100.000000 0.000000
+5 location 100.000000 150.000000 0.000000
+5 location 100.000000 200.000000 0.000000
+5 location 100.000000 250.000000 0.000000
+5 location 100.000000 300.000000 0.000000
+5 location 100.000000 350.000000 0.000000
+5 location 100.000000 400.000000 0.000000
+---------------- Generator Location ------------
+6 location 256.000000 100.000000
+6 location 512.000000 100.000000
+6 location 768.000000 100.000000
